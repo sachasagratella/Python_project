@@ -1,8 +1,8 @@
 # Cyber Threat Landscape Analysis: A Multi-Dimensional Approach
-
+Camille Rouan and Sacha Sagratella
 ## Project Overview
 
-This project provides a comprehensive analysis of global cyberattack patterns using the EUREPOC dataset. We examine the patterns and the evolution of cyber attacks accross different ways: type of attacks, geographic, sectoral and temporal.
+This project provides a comprehensive analysis of global cyberattack patterns using the EUREPOC dataset. We examine the patterns and the evolution of cyber atacks across different ways: type of attacks, geographic, sectoral and temporal.
 
 
 **Research Question:**
@@ -13,14 +13,14 @@ Are cyber attacks becoming more diverse, or do the same attack patterns keep rep
 
 ### Prerequisites
 - Python 3.8+
-- Jupyter Notebook
+- Jupyter Notebook 
 
 ### Setup
 
 1. **Clone the repository:**
 ```bash
-git clone https://github.com/sachasagratella/Python_project.git
-cd cyber-threat-analysis
+git clone https://github.com/sachasagratella/Cyber-threat-analysis
+cd Cyber-threat-analysis
 ```
 
 2. **Install dependencies:**
@@ -39,14 +39,16 @@ scikit-learn
 scipy
 networkx
 ```
-
+The complete list of dependencies is provided in `requirements.txt`.
 ---
 
-## 🚀 Usage
+## Usage
 
-### Running the Full Analysis
-```python
-python src/cyber_analysis.py
+### Running the Analysis
+
+Launch Jupyter Notebook:
+```bash
+jupyter notebook
 ```
 
 ### Step-by-Step Analysis
@@ -57,26 +59,17 @@ I. **Motivation**
 II. **Data Analysis and Process**
 III. **Results and Findings**
 
-Section I provide an overview of the motivation about the project.
-Section II is the core of the project. It is divided into 3 subsection: Data preparation, Data exploration and Pattern Analysis. The first subsection includes cleaning the data and make some preliminary work on it. Data exploration includes exploration on the variables of our interest, this includes graphics and tables. Last subsection provide a deeper analysis on the pattern we wanted to study, with metrics and visualization.
-Section III wrap up the previous work of section I and II and provides a final analysis and a conclusion of the project.
+Section I provides an overview of the motivation about the project.
+Section II is the core of the project. It is divided into 3 subsections: Data preparation, Data exploration and Pattern Analysis. The first subsection includes cleaning the data and make some preliminary work on it. Data exploration includes exploration on the variables of our interest, this includes graphics and tables. Last subsection provides a deeper analysis on the pattern we wanted to study, with metrics and visualization.
+Section III wraps up the previous work of section I and II and provides a final analysis and a conclusion of the project.
 
 
 ### Dataset
 
-- **EUREPOC** - European Repository of Cyber Incidents (publicily available)
-
-### Tools & Libraries
-
-- **Python Data Science Stack:** pandas, numpy, matplotlib, seaborn
-- **Machine Learning:** scikit-learn, scipy
-- **Visualization:** plotly, networkx
-- **Statistical Analysis:** scipy.stats
+- **EUREPOC** - European Repository of Cyber Incidents (publicly available)
+The dataset used in this project is included directly in the repository.
 
 
 **Last Updated:** December 2025
 
-
 **Status:** Complete
-
-
