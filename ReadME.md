@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project provides a comprehensive analysis of global cyberattack patterns using the EUREPOC dataset. We examine the patterns and the evolution of cyber atacks accross different ways: type of attacks, geographic, sectoral and temporal.
+This project provides a comprehensive analysis of global cyberattack patterns using the EUREPOC dataset. We examine the patterns and the evolution of cyber attacks accross different ways: type of attacks, geographic, sectoral and temporal.
 
 
 **Research Question:**
@@ -78,3 +78,4 @@ Section III wrap up the previous work of section I and II and provides a final a
 
 
 **Status:** Complete
+
