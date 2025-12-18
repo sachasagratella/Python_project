@@ -13,7 +13,7 @@ Are cyber attacks becoming more diverse, or do the same attack patterns keep rep
 
 ### Prerequisites
 - Python 3.8+
-- pip package manager
+- Jupyter Notebook
 
 ### Setup
 
@@ -78,4 +78,5 @@ Section III wrap up the previous work of section I and II and provides a final a
 
 
 **Status:** Complete
+
 
